@@ -11,4 +11,5 @@ A [tree-sitter](https://github.com/tree-sitter/tree-sitter) parser for  templati
 References
 
 * [ERB Documentation](https://ruby-doc.org/stdlib-2.5.1/libdoc/erb/rdoc/ERB.html)
+* [EEX Documentation](https://hexdocs.pm/eex/EEx.html)
 * [EJS Documentation](http://ejs.co/#docs)
